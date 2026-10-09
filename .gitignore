@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Mis datos reales de Spotify: NUNCA se suben a GitHub
+data/
